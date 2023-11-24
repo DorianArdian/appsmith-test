@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "page1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "percentage",
+        "value": "100"
+      },
+      {
+        "name": "text",
+        "value": "\"toto\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_page1",
+  "deleted": false,
+  "gitSyncId": "6560cac2daa53a7792b98cd0_6560cc93ee24ee370327a9d4"
+}
